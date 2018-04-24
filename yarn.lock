@@ -2322,7 +2322,7 @@ draft-js@0.10.5:
 
 "draft-js@https://github.com/Lunyr/draft-js.git#input-bugs":
   version "0.10.5"
-  resolved "https://github.com/Lunyr/draft-js.git#b8c307fb486ea194434f8fad153de2ce4c0383f5"
+  resolved "https://github.com/Lunyr/draft-js.git#6eab38e3ce39515d8ceef15047a027a911b62468"
   dependencies:
     fbjs "^0.8.15"
     immutable "~3.7.4"
