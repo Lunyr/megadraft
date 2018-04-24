@@ -2320,9 +2320,9 @@ draft-js@0.10.5:
     immutable "~3.7.4"
     object-assign "^4.1.0"
 
-"draft-js@https://github.com/Lunyr/draft-js.git#input-bugs":
+"draft-js@https://github.com/mxstbr/draft-js#input-bugs":
   version "0.10.5"
-  resolved "https://github.com/Lunyr/draft-js.git#6eab38e3ce39515d8ceef15047a027a911b62468"
+  resolved "https://github.com/mxstbr/draft-js#78f13f60fea90235f7a1eaf5e304fa7f125a80af"
   dependencies:
     fbjs "^0.8.15"
     immutable "~3.7.4"
